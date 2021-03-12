@@ -1,22 +1,26 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Will Bolton
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description:  Will Bolton's personal website.
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: Hi, my name is Will. I am currently undertaking my PhD as part of the AI4Health CDT at Imperial College London. My work focuses on creating intelligent clinical decision support systems to improve the diagnosis and management of infectious diseases in multimorbid patients. Previously I obtained my Masters in Bioscience Enterprise at the University of Cambridge and gained professional experience at a global healthcare consultancy firm. I have a passion for entrepreneurship and am highly interested in start ups and how applying innovative technology can create solutions to real world problems. Please feel free to reach out, I look forward to connecting!
 
 # Add your social links
 social:
-  - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
-  - platform: twitter
-    url: https://twitter.com/brianmaierjr
+  #- platform: github
+  #  url: https://github.com/WilliamBolton
+  #- platform: facebook
+  #  url: https://facebook.com/brianmaierjr
+  #- platform: twitter
+  #  url: https://twitter.com/brianmaierjr
+  - platform: email
+    url: william.bolton15@imperial.ac.uk
   - platform: linkedin
-    url: brianmaierjr
+    url: https://www.linkedin.com/in/william-bolton
+  - platform: github
+    url: https://github.com/WilliamBolton
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
