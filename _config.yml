@@ -16,7 +16,7 @@ social:
   #- platform: twitter
   #  url: https://twitter.com/brianmaierjr
   - platform: email
-    url: william.bolton15@imperial.ac.uk
+    url: mailto:william.bolton15@imperial.ac.uk
   - platform: linkedin
     url: https://www.linkedin.com/in/william-bolton
   - platform: github
