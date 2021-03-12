@@ -2,13 +2,13 @@
   min-height: 100vh;
   font-family: $sans-serif;
   font-weight: 300;
-  background-color: #213334;
+  background-color: #229bab;
   background-size: cover;
   background-position: center;
   @include responsivebackground("53493A45-8742-48F7-B1BB-CB1FAFCE1F32_1_105_c.jpeg", "53493A45-8742-48F7-B1BB-CB1FAFCE1F32_1_105_c.jpeg", "53493A45-8742-48F7-B1BB-CB1FAFCE1F32_1_105_c.jpeg");
 
   .pageTitle {
-    color: $primary-color;
+    color: blue;
     position: relative;
     padding-top: rem(20);
 
@@ -19,7 +19,7 @@
       left: 0;
       width: rem(100);
       height: rem(7);
-      background-color: $primary-color;
+      background-color: blue;
       display: block;
     }
   }
